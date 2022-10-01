@@ -104,25 +104,25 @@ const Navbar = () => {
                     </li>
 
                     <li className="bg-red-700 w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300">
-                        <Link
+                        <a
                             smooth={true}
                             duration={500}
                             className="flex justify-between items-center w-full text-gray-300"
-                            to="contact"
+                            href="mailto:petarginic@mail.com"
                         >
                             Email <HiOutlineMail size={30} />
-                        </Link>
+                        </a>
                     </li>
 
                     <li className="bg-green-800 w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300">
-                        <Link
+                        <a
                             smooth={true}
                             duration={500}
                             className="flex justify-between items-center w-full text-gray-300 "
-                            to="contact"
+                            href="tel:0648410216"
                         >
                             Phone <BsFillPersonLinesFill size={30} />
-                        </Link>
+                        </a>
                     </li>
                 </ul>
             </div>

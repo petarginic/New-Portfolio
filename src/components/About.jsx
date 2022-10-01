@@ -21,10 +21,10 @@ const About = () => {
                     <div class="grid md:grid-cols-3 gap-6 justify-items-center items-center">
                         <div class="col-span-2">
                             <p className="text-gray-400 font-bold ">
-                                Hello, my name is Petar, I am 29 years old, and I live in the Belgrade. In 2019. I
-                                graduated at MEF faculty and earned a title of Informatics engineer.I am occupied with
-                                IT development, learning new programming languages and training. In future, I see myself
-                                as a full stack developer and always seeking for more and more knowledge and skills.
+                                Hello, my name is Petar, I am 29 years old, and I live in Belgrade. In 2019. I graduated
+                                at MEF faculty and earned a title of Informatics engineer.I am occupied with IT
+                                development, learning new programming languages and other techologies. In future, I see
+                                myself as a full stack developer and always seeking for more knowledge and skills.
                                 Although programming is a field that advances day by day and constantly improves, I
                                 enjoy researching and learning new things, and these novelties motivate me further.
                                 Except programming, I have a wide range of interests like gym and street workout,
@@ -53,10 +53,10 @@ const About = () => {
                             In 2011, I encountered programming for the first time, more precisely with a programming
                             language C. At university I encountered other languages like Java,PHP, Python. In 2019, I'm
                             returning to programming, more precisely to what I love the most. I finished the course
-                            "Learning Python", "Python Advanced with Flask" on Udemy, but I wanted to all with Frontend.
-                            In 2021. started learning ReactJS. Finished a course "ReactJS advanced - Udemy" and
-                            "Frontend Web Development Bootcamp Course". Currently I am on Quantox academy, eager to
-                            establish and consolidate knowledge. This website is made using ReactJS.
+                            "Learning Python", "Python Advanced with Flask" on Udemy, other online courses, but I wanted
+                            to combine all with Frontend. In 2021. started learning ReactJS. Finished a course "ReactJS
+                            advanced - Udemy" and "Frontend Web Development Bootcamp Course". Currently I am on Quantox
+                            academy, eager to establish and consolidate knowledge. This website is made using ReactJS.
                         </p>
                     </div>
                 </div>
